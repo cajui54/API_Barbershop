@@ -96,24 +96,10 @@
   "scheduleClient": [
     {
       "id": 2,
-      "name": "Pedro",
-      "time": "10:30",
-      "service": "corte",
-      "price": 50
-    },
-    {
-      "id": 3,
-      "name": "Lucas",
-      "time": "11:00",
-      "service": "corte",
-      "price": 50
-    },
-    {
-      "time": "14:30",
-      "service": "Barba",
-      "name": "Maria",
-      "price": 30,
-      "id": 20
+      "name": "Mário",
+      "time": "9:30",
+      "service": "Alisante",
+      "price": 20
     }
   ]
 }

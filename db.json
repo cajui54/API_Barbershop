@@ -96,17 +96,24 @@
   "scheduleClient": [
     {
       "id": 2,
-      "name": "Mário",
-      "time": "9:30",
-      "service": "Alisante",
-      "price": 20
+      "name": "Cai Cedo",
+      "time": "9:00",
+      "service": "Corte",
+      "price": 50
     },
     {
-      "time": "15:00",
+      "id": 3,
+      "name": "João do Corote",
+      "time": "10:00",
       "service": "Corte",
-      "name": "João",
+      "price": 50
+    },
+    {
+      "time": "15:30",
+      "service": "Corte",
+      "name": "Cleitinho Fuba",
       "price": 50,
-      "id": 3
+      "id": 4
     }
   ]
 }

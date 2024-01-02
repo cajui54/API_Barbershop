@@ -95,18 +95,11 @@
   ],
   "scheduleClient": [
     {
-      "id": 2,
-      "name": "Cai Cedo",
-      "time": "9:00",
-      "service": "Corte",
-      "price": 50
-    },
-    {
       "id": 3,
       "name": "João do Corote",
       "time": "10:00",
-      "service": "Corte",
-      "price": 50
+      "service": "Alisante",
+      "price": 20
     },
     {
       "time": "15:30",
@@ -114,6 +107,27 @@
       "name": "Cleitinho Fuba",
       "price": 50,
       "id": 4
+    },
+    {
+      "time": "9:00",
+      "service": "Corte",
+      "name": "D15",
+      "price": 50,
+      "id": 5
+    },
+    {
+      "time": "10:30",
+      "service": "Corte",
+      "name": "Márcio",
+      "price": 50,
+      "id": 6
+    },
+    {
+      "time": "9:30",
+      "service": "Corte",
+      "name": "X",
+      "price": 50,
+      "id": 7
     }
   ]
 }
